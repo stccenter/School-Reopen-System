@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Simulation id="2" >
+	<Step id='0' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-0.png</Variable>
+		<Variable name='num infected' type='INT'>5</Variable>
+		<Variable name='infected show symptoms' type='INT'>0</Variable>
+		<Variable name='infected no symptoms' type='INT'>5</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>5</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='1' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-1.png</Variable>
+		<Variable name='num infected' type='INT'>6</Variable>
+		<Variable name='infected show symptoms' type='INT'>0</Variable>
+		<Variable name='infected no symptoms' type='INT'>6</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>6</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='2' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-2.png</Variable>
+		<Variable name='num infected' type='INT'>8</Variable>
+		<Variable name='infected show symptoms' type='INT'>0</Variable>
+		<Variable name='infected no symptoms' type='INT'>8</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>8</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='3' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-3.png</Variable>
+		<Variable name='num infected' type='INT'>9</Variable>
+		<Variable name='infected show symptoms' type='INT'>0</Variable>
+		<Variable name='infected no symptoms' type='INT'>9</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>9</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='4' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-4.png</Variable>
+		<Variable name='num infected' type='INT'>9</Variable>
+		<Variable name='infected show symptoms' type='INT'>0</Variable>
+		<Variable name='infected no symptoms' type='INT'>9</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>9</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='5' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-5.png</Variable>
+		<Variable name='num infected' type='INT'>10</Variable>
+		<Variable name='infected show symptoms' type='INT'>0</Variable>
+		<Variable name='infected no symptoms' type='INT'>10</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>10</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='6' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-6.png</Variable>
+		<Variable name='num infected' type='INT'>10</Variable>
+		<Variable name='infected show symptoms' type='INT'>0</Variable>
+		<Variable name='infected no symptoms' type='INT'>10</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>10</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='7' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-7.png</Variable>
+		<Variable name='num infected' type='INT'>11</Variable>
+		<Variable name='infected show symptoms' type='INT'>0</Variable>
+		<Variable name='infected no symptoms' type='INT'>11</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>11</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='8' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-8.png</Variable>
+		<Variable name='num infected' type='INT'>12</Variable>
+		<Variable name='infected show symptoms' type='INT'>0</Variable>
+		<Variable name='infected no symptoms' type='INT'>12</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>12</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='9' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-9.png</Variable>
+		<Variable name='num infected' type='INT'>13</Variable>
+		<Variable name='infected show symptoms' type='INT'>0</Variable>
+		<Variable name='infected no symptoms' type='INT'>13</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>13</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='10' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-10.png</Variable>
+		<Variable name='num infected' type='INT'>13</Variable>
+		<Variable name='infected show symptoms' type='INT'>0</Variable>
+		<Variable name='infected no symptoms' type='INT'>13</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>13</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='11' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-11.png</Variable>
+		<Variable name='num infected' type='INT'>25</Variable>
+		<Variable name='infected show symptoms' type='INT'>0</Variable>
+		<Variable name='infected no symptoms' type='INT'>25</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>25</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='12' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-12.png</Variable>
+		<Variable name='num infected' type='INT'>38</Variable>
+		<Variable name='infected show symptoms' type='INT'>0</Variable>
+		<Variable name='infected no symptoms' type='INT'>38</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>38</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='13' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-13.png</Variable>
+		<Variable name='num infected' type='INT'>49</Variable>
+		<Variable name='infected show symptoms' type='INT'>0</Variable>
+		<Variable name='infected no symptoms' type='INT'>49</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>49</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='14' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-14.png</Variable>
+		<Variable name='num infected' type='INT'>58</Variable>
+		<Variable name='infected show symptoms' type='INT'>0</Variable>
+		<Variable name='infected no symptoms' type='INT'>58</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>58</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='15' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-15.png</Variable>
+		<Variable name='num infected' type='INT'>70</Variable>
+		<Variable name='infected show symptoms' type='INT'>0</Variable>
+		<Variable name='infected no symptoms' type='INT'>70</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>70</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='16' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-16.png</Variable>
+		<Variable name='num infected' type='INT'>77</Variable>
+		<Variable name='infected show symptoms' type='INT'>0</Variable>
+		<Variable name='infected no symptoms' type='INT'>77</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>77</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='17' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-17.png</Variable>
+		<Variable name='num infected' type='INT'>86</Variable>
+		<Variable name='infected show symptoms' type='INT'>0</Variable>
+		<Variable name='infected no symptoms' type='INT'>86</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>86</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='18' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-18.png</Variable>
+		<Variable name='num infected' type='INT'>88</Variable>
+		<Variable name='infected show symptoms' type='INT'>1</Variable>
+		<Variable name='infected no symptoms' type='INT'>87</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>88</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='19' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-19.png</Variable>
+		<Variable name='num infected' type='INT'>97</Variable>
+		<Variable name='infected show symptoms' type='INT'>1</Variable>
+		<Variable name='infected no symptoms' type='INT'>96</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>97</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='20' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-20.png</Variable>
+		<Variable name='num infected' type='INT'>103</Variable>
+		<Variable name='infected show symptoms' type='INT'>1</Variable>
+		<Variable name='infected no symptoms' type='INT'>102</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>103</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='21' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-21.png</Variable>
+		<Variable name='num infected' type='INT'>108</Variable>
+		<Variable name='infected show symptoms' type='INT'>1</Variable>
+		<Variable name='infected no symptoms' type='INT'>107</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>108</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='22' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-22.png</Variable>
+		<Variable name='num infected' type='INT'>116</Variable>
+		<Variable name='infected show symptoms' type='INT'>1</Variable>
+		<Variable name='infected no symptoms' type='INT'>115</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>116</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='23' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-23.png</Variable>
+		<Variable name='num infected' type='INT'>131</Variable>
+		<Variable name='infected show symptoms' type='INT'>1</Variable>
+		<Variable name='infected no symptoms' type='INT'>130</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>131</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='24' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-24.png</Variable>
+		<Variable name='num infected' type='INT'>146</Variable>
+		<Variable name='infected show symptoms' type='INT'>1</Variable>
+		<Variable name='infected no symptoms' type='INT'>145</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>146</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='25' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-25.png</Variable>
+		<Variable name='num infected' type='INT'>171</Variable>
+		<Variable name='infected show symptoms' type='INT'>1</Variable>
+		<Variable name='infected no symptoms' type='INT'>170</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>171</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='26' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-26.png</Variable>
+		<Variable name='num infected' type='INT'>200</Variable>
+		<Variable name='infected show symptoms' type='INT'>2</Variable>
+		<Variable name='infected no symptoms' type='INT'>198</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>200</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='27' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-27.png</Variable>
+		<Variable name='num infected' type='INT'>229</Variable>
+		<Variable name='infected show symptoms' type='INT'>2</Variable>
+		<Variable name='infected no symptoms' type='INT'>227</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>229</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='28' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-28.png</Variable>
+		<Variable name='num infected' type='INT'>250</Variable>
+		<Variable name='infected show symptoms' type='INT'>2</Variable>
+		<Variable name='infected no symptoms' type='INT'>248</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>250</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='29' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-29.png</Variable>
+		<Variable name='num infected' type='INT'>278</Variable>
+		<Variable name='infected show symptoms' type='INT'>5</Variable>
+		<Variable name='infected no symptoms' type='INT'>273</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>278</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='30' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-30.png</Variable>
+		<Variable name='num infected' type='INT'>306</Variable>
+		<Variable name='infected show symptoms' type='INT'>7</Variable>
+		<Variable name='infected no symptoms' type='INT'>299</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>306</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='31' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-31.png</Variable>
+		<Variable name='num infected' type='INT'>329</Variable>
+		<Variable name='infected show symptoms' type='INT'>8</Variable>
+		<Variable name='infected no symptoms' type='INT'>321</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>329</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='32' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-32.png</Variable>
+		<Variable name='num infected' type='INT'>350</Variable>
+		<Variable name='infected show symptoms' type='INT'>9</Variable>
+		<Variable name='infected no symptoms' type='INT'>341</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>350</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='33' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-33.png</Variable>
+		<Variable name='num infected' type='INT'>372</Variable>
+		<Variable name='infected show symptoms' type='INT'>11</Variable>
+		<Variable name='infected no symptoms' type='INT'>361</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>372</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='34' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-34.png</Variable>
+		<Variable name='num infected' type='INT'>400</Variable>
+		<Variable name='infected show symptoms' type='INT'>14</Variable>
+		<Variable name='infected no symptoms' type='INT'>386</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>400</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='35' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-35.png</Variable>
+		<Variable name='num infected' type='INT'>426</Variable>
+		<Variable name='infected show symptoms' type='INT'>16</Variable>
+		<Variable name='infected no symptoms' type='INT'>410</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>426</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='36' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-36.png</Variable>
+		<Variable name='num infected' type='INT'>455</Variable>
+		<Variable name='infected show symptoms' type='INT'>19</Variable>
+		<Variable name='infected no symptoms' type='INT'>436</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>455</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='37' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-37.png</Variable>
+		<Variable name='num infected' type='INT'>487</Variable>
+		<Variable name='infected show symptoms' type='INT'>23</Variable>
+		<Variable name='infected no symptoms' type='INT'>464</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>487</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='38' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-38.png</Variable>
+		<Variable name='num infected' type='INT'>516</Variable>
+		<Variable name='infected show symptoms' type='INT'>23</Variable>
+		<Variable name='infected no symptoms' type='INT'>493</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>516</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='39' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-39.png</Variable>
+		<Variable name='num infected' type='INT'>555</Variable>
+		<Variable name='infected show symptoms' type='INT'>23</Variable>
+		<Variable name='infected no symptoms' type='INT'>532</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>555</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='40' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-40.png</Variable>
+		<Variable name='num infected' type='INT'>589</Variable>
+		<Variable name='infected show symptoms' type='INT'>24</Variable>
+		<Variable name='infected no symptoms' type='INT'>565</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>589</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='41' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-41.png</Variable>
+		<Variable name='num infected' type='INT'>632</Variable>
+		<Variable name='infected show symptoms' type='INT'>29</Variable>
+		<Variable name='infected no symptoms' type='INT'>603</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>632</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='42' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-42.png</Variable>
+		<Variable name='num infected' type='INT'>664</Variable>
+		<Variable name='infected show symptoms' type='INT'>34</Variable>
+		<Variable name='infected no symptoms' type='INT'>630</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>664</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='43' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-43.png</Variable>
+		<Variable name='num infected' type='INT'>704</Variable>
+		<Variable name='infected show symptoms' type='INT'>38</Variable>
+		<Variable name='infected no symptoms' type='INT'>666</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>704</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='44' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-44.png</Variable>
+		<Variable name='num infected' type='INT'>744</Variable>
+		<Variable name='infected show symptoms' type='INT'>43</Variable>
+		<Variable name='infected no symptoms' type='INT'>701</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>744</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='45' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-45.png</Variable>
+		<Variable name='num infected' type='INT'>778</Variable>
+		<Variable name='infected show symptoms' type='INT'>47</Variable>
+		<Variable name='infected no symptoms' type='INT'>731</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>778</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='46' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-46.png</Variable>
+		<Variable name='num infected' type='INT'>810</Variable>
+		<Variable name='infected show symptoms' type='INT'>51</Variable>
+		<Variable name='infected no symptoms' type='INT'>759</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>810</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='47' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-47.png</Variable>
+		<Variable name='num infected' type='INT'>861</Variable>
+		<Variable name='infected show symptoms' type='INT'>55</Variable>
+		<Variable name='infected no symptoms' type='INT'>806</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>861</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='48' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-48.png</Variable>
+		<Variable name='num infected' type='INT'>900</Variable>
+		<Variable name='infected show symptoms' type='INT'>61</Variable>
+		<Variable name='infected no symptoms' type='INT'>839</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>900</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='49' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-49.png</Variable>
+		<Variable name='num infected' type='INT'>957</Variable>
+		<Variable name='infected show symptoms' type='INT'>65</Variable>
+		<Variable name='infected no symptoms' type='INT'>892</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>957</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='50' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-50.png</Variable>
+		<Variable name='num infected' type='INT'>1004</Variable>
+		<Variable name='infected show symptoms' type='INT'>79</Variable>
+		<Variable name='infected no symptoms' type='INT'>925</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>1004</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='51' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-51.png</Variable>
+		<Variable name='num infected' type='INT'>1036</Variable>
+		<Variable name='infected show symptoms' type='INT'>85</Variable>
+		<Variable name='infected no symptoms' type='INT'>951</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>1036</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='52' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-52.png</Variable>
+		<Variable name='num infected' type='INT'>1073</Variable>
+		<Variable name='infected show symptoms' type='INT'>95</Variable>
+		<Variable name='infected no symptoms' type='INT'>978</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>1073</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='53' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-53.png</Variable>
+		<Variable name='num infected' type='INT'>1111</Variable>
+		<Variable name='infected show symptoms' type='INT'>104</Variable>
+		<Variable name='infected no symptoms' type='INT'>1007</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>1111</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='54' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-54.png</Variable>
+		<Variable name='num infected' type='INT'>1165</Variable>
+		<Variable name='infected show symptoms' type='INT'>122</Variable>
+		<Variable name='infected no symptoms' type='INT'>1043</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>1165</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='55' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-55.png</Variable>
+		<Variable name='num infected' type='INT'>1208</Variable>
+		<Variable name='infected show symptoms' type='INT'>127</Variable>
+		<Variable name='infected no symptoms' type='INT'>1081</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>1208</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='56' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-56.png</Variable>
+		<Variable name='num infected' type='INT'>1247</Variable>
+		<Variable name='infected show symptoms' type='INT'>136</Variable>
+		<Variable name='infected no symptoms' type='INT'>1111</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>1247</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='57' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-57.png</Variable>
+		<Variable name='num infected' type='INT'>1288</Variable>
+		<Variable name='infected show symptoms' type='INT'>148</Variable>
+		<Variable name='infected no symptoms' type='INT'>1140</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>1288</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='58' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-58.png</Variable>
+		<Variable name='num infected' type='INT'>1341</Variable>
+		<Variable name='infected show symptoms' type='INT'>161</Variable>
+		<Variable name='infected no symptoms' type='INT'>1180</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>1341</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+	<Step id='59' >
+		<Variable name='chart_display' type='DISPLAY2D'>chart_display2-59.png</Variable>
+		<Variable name='num infected' type='INT'>1384</Variable>
+		<Variable name='infected show symptoms' type='INT'>170</Variable>
+		<Variable name='infected no symptoms' type='INT'>1214</Variable>
+		<Variable name='active people' type='INT'>5001</Variable>
+		<Variable name='dead' type='INT'>0</Variable>
+		<Variable name='total infected people' type='INT'>1384</Variable>
+		<Variable name='masks_on_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='build_cap_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='soc_dist_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='monitoring_symtps_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='testing_policy' type='UNDEFINED'>false</Variable>
+		<Variable name='contact_tracing_policy' type='UNDEFINED'>false</Variable>
+	</Step>
+</Simulation>

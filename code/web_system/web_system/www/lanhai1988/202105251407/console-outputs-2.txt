@@ -1,0 +1,2 @@
+nb_infected_init: 5
+5000
